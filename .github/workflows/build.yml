@@ -27,10 +27,10 @@ on:
         options:
           - release
           - debug
-      chat_id:7912059037
+      chat_id:
         description: 'Telegram Chat ID'
         required: true
-      bot_token:8478528124:AAGuwvPA1xTVi5wgDDQzOMhEmQwULTiVOVs
+      bot_token:
         description: 'Telegram Bot Token'
         required: true
 
